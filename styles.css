@@ -42,7 +42,6 @@ p, li {
 p.bullet {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-/*    margin-bottom: 10em;*/
     line-height: 30px;
     display: inline;
 }
@@ -125,7 +124,6 @@ a.hed {
 	a.hed {
 	text-decoration: underline !important;
 	color: black;
-	font-size: .8em;
 }
 
 div.nav {
@@ -143,26 +141,27 @@ div.intro {
 }
 
 h1 {
-    font-size: .89em;
+    font-size: 1em;
 }
 
 p, li {
     font-family: 'Open Sans', sans-serif;
-    font-size: .8em;
     line-height: 24px;
+    font-size: .8em;
 }
 
 p.bullet {
-    font-family: 'Open Sans', sans-serif;
-    font-size: .8em;
-    line-height: 18px !important;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 1em !important;
+    line-height: 30px;
+    display: inline;
 }
+
 
 p.footer {
     font-family: 'Open Sans', sans-serif;
     font-size: .8em;
     line-height: 24px;
-    padding-bottom: 
 }
 
   
