@@ -124,6 +124,7 @@ a.hed {
 	a.hed {
 	text-decoration: underline !important;
 	color: black;
+	font-size: .8em;
 }
 
 div.nav {
@@ -141,7 +142,7 @@ div.intro {
 }
 
 h1 {
-    font-size: 1em;
+    font-size: .9em;
 }
 
 p, li {
