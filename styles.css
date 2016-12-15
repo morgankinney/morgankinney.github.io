@@ -147,7 +147,7 @@ p, li {
 p.bullet {
     font-family: 'Open Sans', sans-serif;
     font-size: .8em;
-    line-height: 20px;
+    line-height: 18px !important;
 }
 
 p.footer {
