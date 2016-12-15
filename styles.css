@@ -3,6 +3,13 @@ h1 {
 font-family: 'Montserrat', sans-serif;
 color: #ff4e00;
 display: inline;
+font-size: 3em;
+
+}
+
+span {
+
+	text-transform: uppercase;
 }
 
 h2 {
@@ -49,21 +56,21 @@ h3 {
 
 
 div.nav {
-    background-color: white;
-    height: 5em;
+/*    background-color: yellow;*/
+    height: 5.5em;
     width: 100vw;
-    margin-left: -.5em;
+/*    margin-left: -.5em;
     margin-top: -5em;
     z-index: 1;
-    position: fixed;
-    border-color: #ff4e00;
+    position: fixed;*/
+/*    border-color: #ff4e00;
     border-bottom-style: solid;
-    border-bottom-width: .5px;
+    border-bottom-width: .5px;*/
     text-align: center;
 }
 
 div.intro {
-	margin-top: 5em;
+/*	margin-top: 5em;*/
 	padding-top: 1em;
 	margin-left: 22%;
     margin-right: 22%;
@@ -75,7 +82,9 @@ div.article {
     margin-right: 26%;
 }
 
-
+hr {
+	border-color: #ff4e00;
+}
 
 footer {
     border-color: #a8a8a8;
@@ -99,7 +108,7 @@ p.footer {
 a.hed {
 	text-decoration: underline !important;
 	color: black;
-	font-size: .7em;
+	font-size: .4em;
 }
 
 
@@ -126,7 +135,7 @@ div.intro {
 }
 
 h1 {
-    font-size: .95em;
+    font-size: .89em;
 }
 
 p, li {
