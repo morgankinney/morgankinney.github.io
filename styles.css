@@ -12,6 +12,12 @@ span {
 	text-transform: uppercase;
 }
 
+ul {
+	list-style-type: disc;
+}
+
+
+
 h2 {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -128,8 +134,10 @@ div.nav {
 
 }
 
+
+
 div.intro {
-		padding-top: 0em;
+	padding-top: 0em;
 	margin-left: 3%;
     margin-right: 3%;
 }
